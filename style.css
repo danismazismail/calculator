@@ -14,7 +14,7 @@ html{
 
 body{
     align-items: center;
-    background-image: url("background.jpg");
+    background-image: url("backgroundimg.jpg");
     display: flex;
     font-family: "Times New Roman", Times, serif;
     font-display: swap;
